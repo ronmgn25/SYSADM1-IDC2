@@ -106,6 +106,7 @@ reliable infrastructure.
 
 > ![](vertopal_85a90f3492e84fbc9465f6e40780b8c7/media/image3.png){width="8.478472222222223in"
 > height="6.5625in"}**Proposed Network Design**
+![image](https://github.com/user-attachments/assets/267e508e-0e28-43c7-b89d-702fb6804967)
 
   ------------------------------------------------------------------------------
   Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
