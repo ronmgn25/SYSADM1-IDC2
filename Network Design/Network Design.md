@@ -11,8 +11,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_85a90f3492e84fbc9465f6e40780b8c7/media/image2.webp){width="5.049483814523184in"
-height="3.8229166666666665in"}
+![image](https://github.com/user-attachments/assets/35e2ea2a-808d-49e6-ac0d-3bd54188b299)
+
 
 **Potential Bottlenecks:**
 
